@@ -1,0 +1,19 @@
+.sidebarContainer{
+    margin: 0;
+    padding: 0;
+    border-right: 1px solid grey;
+}
+.sidebarContainer ul{
+    height: 80vh;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-size: 20px;
+
+}
+.element{
+    display: flex;
+    gap: 10px;
+}
